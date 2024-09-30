@@ -1,6 +1,5 @@
-# Change these first
-owner: dineshBvc # Your GitHub organization or username, where this repository lives
-repo: ubiquitousGoggles # The name of this repository
+owner: dineshBvc
+repo: ubiquitousGoggles
 
 sites:
   - name: BVC
@@ -8,16 +7,13 @@ sites:
   - name: CMS
     url: https://cms.bvc24.in
 
-assignees: # Users to assign downtime issues.
+assignees:
   - dineshBvc
   - tamilmctv
   - jayanandhini-tech
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.bvc24.in
-  # baseUrl: /ubiquitousGoggles
   logoUrl: https://cms.bvc24.in/assets/icon/favicon.ico
   name: BVC
   introTitle: "**BVC services** - Status"
@@ -33,6 +29,5 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  i18n:
+    footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/dineshBvc/ubiquitousGoggles/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
