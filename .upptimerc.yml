@@ -6,6 +6,8 @@ sites:
     url: https://www.bvc24.com
   - name: CMS
     url: https://cms.bvc24.in
+  - name: UPT # For Fun
+    url: https://uptime.bvc24.in
 
 assignees:
   - dineshBvc
