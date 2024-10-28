@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 577,
-    "timeDay": 679,
-    "timeWeek": 587,
-    "timeMonth": 577,
+    "timeDay": 625,
+    "timeWeek": 585,
+    "timeMonth": 576,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2024-10-08": 7
@@ -30,11 +30,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 621,
-    "timeWeek": 676,
-    "timeMonth": 678,
-    "timeYear": 683,
+    "time": 688,
+    "timeDay": 749,
+    "timeWeek": 701,
+    "timeMonth": 684,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "UPT",
+    "url": "https://uptime.bvc24.in",
+    "icon": "https://icons.duckduckgo.com/ip3/uptime.bvc24.in.ico",
+    "slug": "upt",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   }
 ]
