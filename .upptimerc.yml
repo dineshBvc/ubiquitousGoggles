@@ -2,7 +2,7 @@ owner: dineshBvc
 repo: ubiquitousGoggles
 
 sites:
-  - name: BVC24.COM
+  - name: BVC
     url: https://www.bvc24.com
   - name: BVC24.IN
     url: https://www.bvc24.in
