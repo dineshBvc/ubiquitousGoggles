@@ -2,8 +2,10 @@ owner: dineshBvc
 repo: ubiquitousGoggles
 
 sites:
-  - name: BVC
+  - name: BVC24.COM
     url: https://www.bvc24.com
+  - name: BVC24.IN
+    url: https://www.bvc24.in
   - name: CMS
     url: https://cms.bvc24.in
   - name: UPT # For Fun
@@ -31,5 +33,5 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-  i18n:
-    footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/dineshBvc/ubiquitousGoggles/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+i18n:
+  footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/dineshBvc/ubiquitousGoggles/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
