@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.com.ico",
     "slug": "bvc",
     "status": "up",
-    "uptime": "91.74%",
+    "uptime": "91.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.50%",
-    "uptimeYear": "91.74%",
+    "uptimeYear": "91.82%",
     "time": 585,
     "timeDay": 499,
     "timeWeek": 577,
@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.in.ico",
     "slug": "bvc-24-in",
     "status": "up",
-    "uptime": "76.77%",
+    "uptime": "76.98%",
     "uptimeDay": "99.33%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "85.71%",
-    "uptimeYear": "76.77%",
+    "uptimeYear": "76.98%",
     "time": 693,
     "timeDay": 498,
     "timeWeek": 548,
@@ -78,7 +78,7 @@
     "url": "https://cms.bvc24.in",
     "icon": "https://icons.duckduckgo.com/ip3/cms.bvc24.in.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 703,
     "timeMonth": 822,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-19": 0
+    }
   },
   {
     "name": "UPT",
