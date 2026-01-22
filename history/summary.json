@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.com.ico",
     "slug": "bvc",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "98.81%",
-    "time": 604,
-    "timeDay": 628,
-    "timeWeek": 554,
-    "timeMonth": 549,
+    "uptimeYear": "98.91%",
+    "time": 603,
+    "timeDay": 427,
+    "timeWeek": 548,
+    "timeMonth": 551,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2025-12-25": 327,
       "2025-10-07": 18,
       "2025-01-25": 1199,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   },
   {
@@ -30,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.in.ico",
     "slug": "bvc-24-in",
     "status": "up",
-    "uptime": "95.95%",
-    "uptimeDay": "92.07%",
+    "uptime": "95.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "98.28%",
-    "time": 2195,
-    "timeDay": 3805,
-    "timeWeek": 3329,
-    "timeMonth": 3299,
-    "timeYear": 2285,
+    "uptimeYear": "98.38%",
+    "time": 2197,
+    "timeDay": 3517,
+    "timeWeek": 3293,
+    "timeMonth": 3298,
+    "timeYear": 2296,
     "dailyMinutesDown": {
       "2026-01-20": 114,
       "2026-01-07": 52,
@@ -72,8 +71,7 @@
       "2025-01-28": 33,
       "2025-01-25": 1199,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   },
   {
@@ -89,8 +87,8 @@
     "uptimeYear": "99.49%",
     "time": 713,
     "timeDay": 708,
-    "timeWeek": 745,
-    "timeMonth": 721,
+    "timeWeek": 730,
+    "timeMonth": 720,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-12-12": 12,
@@ -114,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 130,
-    "timeWeek": 186,
+    "timeDay": 158,
+    "timeWeek": 179,
     "timeMonth": 156,
     "timeYear": 143,
     "dailyMinutesDown": {
