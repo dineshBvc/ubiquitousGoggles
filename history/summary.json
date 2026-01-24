@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.46%",
     "time": 604,
-    "timeDay": 880,
-    "timeWeek": 597,
-    "timeMonth": 567,
+    "timeDay": 600,
+    "timeWeek": 616,
+    "timeMonth": 562,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2025-12-25": 327,
       "2025-10-07": 18,
-      "2025-01-25": 1199,
-      "2025-01-24": 1440
+      "2025-01-25": 1199
     }
   },
   {
@@ -28,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.in.ico",
     "slug": "bvc-24-in",
     "status": "up",
-    "uptime": "95.97%",
+    "uptime": "95.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "98.65%",
-    "time": 2207,
-    "timeDay": 6823,
-    "timeWeek": 3696,
-    "timeMonth": 3392,
-    "timeYear": 2311,
+    "uptimeYear": "98.92%",
+    "time": 2211,
+    "timeDay": 4031,
+    "timeWeek": 3743,
+    "timeMonth": 3402,
+    "timeYear": 2319,
     "dailyMinutesDown": {
       "2026-01-20": 114,
       "2026-01-07": 52,
@@ -68,8 +67,7 @@
       "2025-01-31": 36,
       "2025-01-29": 44,
       "2025-01-28": 33,
-      "2025-01-25": 1199,
-      "2025-01-24": 1440
+      "2025-01-25": 1199
     }
   },
   {
@@ -84,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 713,
-    "timeDay": 679,
-    "timeWeek": 724,
-    "timeMonth": 719,
+    "timeDay": 819,
+    "timeWeek": 734,
+    "timeMonth": 724,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-12-12": 12,
@@ -110,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 96,
-    "timeWeek": 171,
-    "timeMonth": 154,
+    "timeDay": 248,
+    "timeWeek": 174,
+    "timeMonth": 158,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2025-12-12": 12
