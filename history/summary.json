@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.com.ico",
     "slug": "bvc",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 603,
-    "timeDay": 401,
+    "time": 604,
+    "timeDay": 693,
     "timeWeek": 539,
-    "timeMonth": 570,
+    "timeMonth": 582,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2025-12-25": 327,
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bvc24.in.ico",
     "slug": "bvc-24-in",
     "status": "up",
-    "uptime": "96.19%",
+    "uptime": "96.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.43%",
-    "time": 2267,
-    "timeDay": 604,
-    "timeWeek": 2926,
-    "timeMonth": 3389,
-    "timeYear": 2572,
+    "time": 2264,
+    "timeDay": 806,
+    "timeWeek": 2572,
+    "timeMonth": 3311,
+    "timeYear": 2583,
     "dailyMinutesDown": {
       "2026-02-15": 39,
       "2026-01-28": 119,
@@ -59,8 +59,7 @@
       "2025-03-02": 43,
       "2025-03-01": 17,
       "2025-02-21": 7,
-      "2025-02-20": 59,
-      "2025-02-19": 10
+      "2025-02-20": 59
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.44%",
-    "time": 715,
-    "timeDay": 732,
-    "timeWeek": 751,
-    "timeMonth": 724,
+    "time": 716,
+    "timeDay": 748,
+    "timeWeek": 754,
+    "timeMonth": 726,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2026-01-26": 265,
@@ -86,8 +85,7 @@
       "2025-09-30": 258,
       "2025-06-06": 235,
       "2025-02-21": 515,
-      "2025-02-20": 1440,
-      "2025-02-19": 59
+      "2025-02-20": 1440
     }
   },
   {
@@ -102,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 168,
-    "timeWeek": 192,
-    "timeMonth": 278,
+    "timeDay": 151,
+    "timeWeek": 167,
+    "timeMonth": 279,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2025-12-12": 12
